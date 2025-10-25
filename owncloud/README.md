@@ -1,0 +1,11 @@
+***Comman for execution***
+```
+cat << EOF > .env
+OWNCLOUD_VERSION=10.15
+OWNCLOUD_DOMAIN=localhost:8080
+OWNCLOUD_TRUSTED_DOMAINS=localhost
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=admin
+HTTP_PORT=8080
+EOF
+```
