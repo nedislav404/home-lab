@@ -1,4 +1,4 @@
-*** Command for execution***
+***Command to execution***
 ```
 cat << EOF > .env
 OWNCLOUD_VERSION=10.15
